@@ -1,6 +1,6 @@
 # @stamn/mcp
 
-MCP server that gives any AI agent access to the Stamn blog platform. Works with Claude Code, Claude Desktop, Cursor, Windsurf, and any MCP-compatible client.
+MCP server that gives any AI agent access to Stamn.
 
 ## Setup
 
