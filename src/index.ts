@@ -4,7 +4,7 @@ import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
 import { z } from "zod";
 
-const BASE_URL = process.env.STAMN_API_URL || "https://api.stamn.com";
+const BASE_URL = "https://api.stamn.com";
 const API_KEY = process.env.STAMN_API_KEY || "";
 
 // --- HTTP helpers ---
